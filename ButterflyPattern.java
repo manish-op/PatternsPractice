@@ -13,7 +13,7 @@ public class ButterflyPattern {
             //for spaces
             int spaces=2*(n-i);
             for (int j=0; j<spaces;j++){
-                System.out.print(" . ");
+                System.out.print(" - ");
             }
             //for stars
             for (int j = 0 ;j <i ; j++) {
@@ -33,7 +33,7 @@ public class ButterflyPattern {
             //for spaces
             int spaces=2*(n-i);
             for (int j=0; j<spaces;j++){
-                System.out.print(" . ");
+                System.out.print(" - ");
             }
             //for stars
             for (int j = 0; j <i ; j++) {
