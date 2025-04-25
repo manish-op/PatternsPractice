@@ -36,8 +36,8 @@ public class NumberHillPattern {
             }
 
             //for right pattern
-            for (int k =i-1 ; k >=1; k--) {
-                System.out.print(k);
+            for (int j =i-1 ; j >=1; j--) {
+                System.out.print(j);
             }
             System.out.println();
 
